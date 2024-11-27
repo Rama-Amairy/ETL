@@ -14,7 +14,7 @@ def main():
         
         # Step 1: Extract
         # 1- firms names work in immigration law in canada (by province)
-        #Extract()
+        Extract()
 
     
         # Step 2: Transform
